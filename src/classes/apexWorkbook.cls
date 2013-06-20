@@ -4,6 +4,8 @@ public class apexWorkbook {
 	// Change 2
 	
 	//Change 3
+	
+	// Change 4
     public static void loadData () {
         Merchandise__c[] ml = new List<Merchandise__c>();
         Merchandise__c m = new Merchandise__c(
